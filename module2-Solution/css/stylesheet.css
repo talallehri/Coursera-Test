@@ -24,11 +24,11 @@ h2 {
 #p1,#p2,#p3 {
 	background-color: gray;
 	width: 30%;
-	height: 20%;
+	height: auto;
 	margin : 15px;
 	border: 1px solid black;
 	float: left;
-	text-align: left;
+	text-align: justify;
 }
 p{
 	margin: 20px;
